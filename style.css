@@ -17,6 +17,7 @@ html {
 body {
   font-family: "Roboto", sans-serif;
   overflow: hidden;
+  background-color: #b66fd1;
 }
 
 img {
@@ -26,9 +27,8 @@ img {
 
 /* PROJ */
 .container-rain {
-  width: 100vw;
-  height: 100vh;
-  background-color: #b66fd1;
+  width: 100%;
+  height: 100%;
   position: relative;
 }
 
@@ -43,7 +43,7 @@ img {
 
 .heart {
   position: absolute;
-  color: #ff69b4;
+  color: #270e38;
   font-size: 30px;
   animation: rise 2s ease-out forwards;
 }
