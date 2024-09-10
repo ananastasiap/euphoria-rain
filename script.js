@@ -1,5 +1,5 @@
 // words rain
-const words = ["эфория", "ещё эйфория", "тоже эйфория", "ЭЙФОРИЯ"];
+const words = ["эйфория", "ещё эйфория", "тоже эйфория", "ЭЙФОРИЯ"];
 const containerRain = document.getElementById("containerRain");
 
 const createWord = () => {
